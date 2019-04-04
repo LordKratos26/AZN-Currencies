@@ -1,0 +1,10 @@
+C:\Users\HELP\source\repos\Cbar\Cbar\bin\Debug\Cbar.exe.config
+C:\Users\HELP\source\repos\Cbar\Cbar\bin\Debug\Cbar.exe
+C:\Users\HELP\source\repos\Cbar\Cbar\bin\Debug\Cbar.pdb
+C:\Users\HELP\source\repos\Cbar\Cbar\obj\Debug\Cbar.csprojAssemblyReference.cache
+C:\Users\HELP\source\repos\Cbar\Cbar\obj\Debug\Cbar.Form1.resources
+C:\Users\HELP\source\repos\Cbar\Cbar\obj\Debug\Cbar.Properties.Resources.resources
+C:\Users\HELP\source\repos\Cbar\Cbar\obj\Debug\Cbar.csproj.GenerateResource.cache
+C:\Users\HELP\source\repos\Cbar\Cbar\obj\Debug\Cbar.csproj.CoreCompileInputs.cache
+C:\Users\HELP\source\repos\Cbar\Cbar\obj\Debug\Cbar.exe
+C:\Users\HELP\source\repos\Cbar\Cbar\obj\Debug\Cbar.pdb
